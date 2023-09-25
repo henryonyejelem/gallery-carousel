@@ -1,11 +1,11 @@
 
-import '../styles/style.css'
-import noodles from "../images/pictures/noodles.jpg"
-import chefsRecom from "../images/pictures/chefsRecom.jpg"
-import appetizer from "../images/pictures/appetizers.jpg"
-import soup from "../images/pictures/soup.jpg"
-import sushi from "../images/pictures/sushi.jpg"
-import dessert from "../images/pictures/dessert.jpg"
+import './style.css'
+import noodles from "./images/noodles.jpg"
+import chefsRecom from "./images/chefsRecom.jpg"
+import appetizer from "./images/appetizers.jpg"
+import soup from "./images/soup.jpg"
+import sushi from "./images/sushi.jpg"
+import dessert from "./images/dessert.jpg"
 
 
 function Gallery(){
